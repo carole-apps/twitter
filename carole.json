@@ -1,4 +1,5 @@
 {
   "name": "Twitter",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "source": "https://twitter.com"
 }
